@@ -1,0 +1,19 @@
+{
+    "name": "Telegram cather by @ELHYBA",
+    "description": "",
+    "stack": "container",
+    "repository": "https://github.com/perdark/TeleChecker",
+    "keywords": [
+        "python",
+        "checker",
+        "telegrambot"
+    ],
+    "website": "https://github.com/perdark/bot_checker-v2",
+    "env": {
+        "TOKEN": {
+            "description": "6944582834:AAH_jeVFDoGxFh6P0WkVsL9mZSRERlToiFc",
+            "value": "",
+            "required": true
+        }
+    }
+}
